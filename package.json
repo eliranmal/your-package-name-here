@@ -2,6 +2,7 @@
   "name": "your-package-name-here",
   "version": "0.1.0",
   "description": "your-package-description-here",
+  "main": "your-main-here.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eliranmal/your-package-name-here.git"
@@ -10,7 +11,7 @@
     "your-package-keywords-here"
   ],
   "author": "your-name-here",
-  "license": "WTFPL",
+  "license": "your-license-here",
   "bugs": {
     "url": "https://github.com/eliranmal/your-package-name-here/issues"
   },
